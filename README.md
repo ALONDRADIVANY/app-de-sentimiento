@@ -1,4 +1,5 @@
 # SEC Sentiment Analyzer
+<img width="1440" height="900" alt="Captura de pantalla 2026-05-05 a las 8 35 02 p m" src="https://github.com/user-attachments/assets/d02ab633-a897-4c87-85cb-7db2005fa05c" />
 
 Análisis de sentimiento de documentos SEC usando inteligencia artificial local. Esta aplicación permite cargar archivos SEC (en formato PDF o TXT) y analizar automáticamente el sentimiento de cada sección del documento utilizando técnicas de procesamiento de lenguaje natural.
 
